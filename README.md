@@ -1,4 +1,5 @@
-🔥 吹牛大王， ⛵ 全球划水最强王者争霸赛冠军。
+- 🔥 吹牛大王
+- 👑 全球划水最强王者争霸赛冠军。
 
 <a href="https://github.com/hotoo">
   <image width='38%' src="https://github-readme-stats.vercel.app/api?username=zhangyingwei&show_icons=true&include_all_commits=false&hide_border=true&hide=contribs&theme=vue" />
